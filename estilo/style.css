@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nunito:wght@300&family=Poppins:wght@200&family=Rubik&family=Shippori+Antique&family=Source+Sans+Pro:wght@300&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #23374d;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Shippori Antique', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.header{
+    /*background: firebrick;*/
+    text-align: center;
+}
+
+section img{
+    width: 210px;
+}
+
+section div{
+    /*background: forestgreen;*/
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+.nome{
+    background: #85c3ff;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    border-radius: 15px;
+}
+.entrar{
+    border-radius: 15px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: #0085ff;
+    color: white;
+    border: none;
+}
+footer{
+    text-align: center;
+}
